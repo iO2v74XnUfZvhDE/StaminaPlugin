@@ -1,0 +1,8 @@
+name: StaminaPlugin
+version: '${version}'
+main: me.io2.staminaplugin.StaminaPlugin
+api-version: 1.16
+
+softdepend:
+  - PlaceholderAPI
+  - TarkovSkills
